@@ -18,7 +18,7 @@ A simple coding program with a graphical interface.
 
 A website containing GPU resources for Vulkan.
 
-## [CSS-Tricks]](https://www.vulkan.org/tools)
+## [CSS-Tricks]](https://css-tricks.com/almanac/)
 
 [Archived Link](https://web.archive.org/web/20150207060508/http://css-tricks.com/almanac/)
 
